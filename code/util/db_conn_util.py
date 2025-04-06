@@ -6,6 +6,6 @@ class DBConnUtil:
         return mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Anu3@mysql",
+            password="****",
             database="hmbank"
         )
